@@ -4,8 +4,6 @@
 - 🌱 Estou aprofundando meus conhecimentos em **JavaScript e algumas áreas voltadas ao Back End, como Banco de Dados, PHP, etc**
 
 - 📫 Meu email pessoal é **gabrielsancinetti@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
