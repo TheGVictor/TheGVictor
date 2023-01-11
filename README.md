@@ -1,7 +1,9 @@
 <h1 align="center">Olá, eu sou o Gabriel Victor Sancinetti</h1>
-<h3 align="center">Aprendiz de programação</h3>
+<h3 align="center">Aprendiz de Programador</h3>
 
-- 🌱 Estou aprofundando meus conhecimentos em **JavaScript e algumas áreas voltadas ao Back End, como Banco de Dados, PHP, etc**
+- 💻 Conhecimento vasto em HTML, CSS e Banco de Dados
+
+- 🌱 Aprofundando meus conhecimentos em **JavaScript**
 
 - 📫 Meu email pessoal é **gabrielsancinetti@gmail.com**
 <p align="left">
