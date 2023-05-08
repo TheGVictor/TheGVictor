@@ -18,10 +18,6 @@
 ## 🐦 Último Tweet:
 [![](https://gtce.itsvg.in/api?username=The_GVictor)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Nota Motivacional Aleatória:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=TheGVictor&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
