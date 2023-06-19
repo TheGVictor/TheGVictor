@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheGVictor&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Último Tweet:
-[![](https://gtce.itsvg.in/api?username=The_GVictor)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 
