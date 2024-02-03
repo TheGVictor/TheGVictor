@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Conhecimento em Front-End e Mobile<br>🌱 Maratonando React Native e Javascript<br>💬 Resiliência, foco e paciência... Aprendendo cada dia mais!
+🔭 Conhecimento em Front-End e Mobile<br>🌱 Maratonando React Native e Java <br>💬 Resiliência, foco e paciência... Aprendendo cada dia mais!
 
 
 ## 🌐 Redes Sociais:
